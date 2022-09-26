@@ -1,0 +1,5 @@
+export const LocationActions = {
+    GET_LOCATION: "GET_LOCATIONS",
+    RESET_LOCATION: "RESET_LOCATION",
+    CURRENT_LOCATION : "CURRENT_LOCATION",
+}

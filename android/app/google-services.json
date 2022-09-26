@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043226830301",
+    "project_id": "safeapp-f3221",
+    "storage_bucket": "safeapp-f3221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043226830301:android:1fd8fe09bc43d052348234",
+        "android_client_info": {
+          "package_name": "com.safefrontendmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043226830301-oci70dt1t1p5bgog1mpfu4hu1ml22ktk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpga3CLULbta2mUhvvFyvrpE8--x6jzfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043226830301-oci70dt1t1p5bgog1mpfu4hu1ml22ktk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
